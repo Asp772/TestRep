@@ -1,0 +1,1 @@
+javac -cp . src/main/java/by/unknown/testproj/HelloWorld.java
